@@ -20,7 +20,7 @@
     "serve:dev": "set NODE_ENV=development && nodemon --ignore tests/ -r tsconfig-paths/register app.ts",
     "build:tsc": "set NODE_ENV=production && tsc && tsc-alias",
     "build:prepare": "bash ./scripts/prepare-build.sh",
-    "serve": "set NODE_ENV=production && node app.js"
+    "start": "set NODE_ENV=production && node app.js"
   },
   "repository": {
     "type": "git",
