@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.badGateway = exports.internalServerError = exports.notFound = exports.unAuthorized = exports.badRequest = exports.okResponse = void 0;
+var _2XX_response_1 = require("./2XX-response");
+Object.defineProperty(exports, "okResponse", { enumerable: true, get: function () { return _2XX_response_1.okResponse; } });
+var _4XX_response_1 = require("./4XX-response");
+Object.defineProperty(exports, "badRequest", { enumerable: true, get: function () { return _4XX_response_1.badRequest; } });
+Object.defineProperty(exports, "unAuthorized", { enumerable: true, get: function () { return _4XX_response_1.unAuthorized; } });
+Object.defineProperty(exports, "notFound", { enumerable: true, get: function () { return _4XX_response_1.notFound; } });
+var _5XX_response_1 = require("./5XX-response");
+Object.defineProperty(exports, "internalServerError", { enumerable: true, get: function () { return _5XX_response_1.internalServerError; } });
+Object.defineProperty(exports, "badGateway", { enumerable: true, get: function () { return _5XX_response_1.badGateway; } });
