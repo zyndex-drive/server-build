@@ -1,11 +1,1 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-var projects_1 = require("./projects");
-var service_account_1 = require("./service-account");
-/**
- * IAM API Methods
- */
-exports.default = {
-    projects: projects_1.methods,
-    serviceAccount: service_account_1.methods,
-};
+'use strict';var a122_0x349a12=a122_0xeb87;(function(_0x9778e4,_0x19e2b8){var _0x5296e4=a122_0xeb87,_0x5ab2b5=_0x9778e4();while(!![]){try{var _0x310ef9=-parseInt(_0x5296e4(0x120))/0x1+parseInt(_0x5296e4(0x116))/0x2+-parseInt(_0x5296e4(0x119))/0x3+-parseInt(_0x5296e4(0x115))/0x4*(-parseInt(_0x5296e4(0x11b))/0x5)+-parseInt(_0x5296e4(0x121))/0x6*(-parseInt(_0x5296e4(0x11c))/0x7)+-parseInt(_0x5296e4(0x11a))/0x8*(parseInt(_0x5296e4(0x117))/0x9)+parseInt(_0x5296e4(0x118))/0xa;if(_0x310ef9===_0x19e2b8)break;else _0x5ab2b5['push'](_0x5ab2b5['shift']());}catch(_0x470908){_0x5ab2b5['push'](_0x5ab2b5['shift']());}}}(a122_0x2711,0x9e4c5));function a122_0x2711(){var _0x4d3560=['2203976xSmLGy','241659LzOMeL','10719930wWshiG','1882722IHbmMI','184wJXuhu','68825WjqJTP','2193800iFYOGm','methods','default','defineProperty','1086190HrYzoG','12yaqiWG','__esModule','./service-account','52AeTxVd'];a122_0x2711=function(){return _0x4d3560;};return a122_0x2711();}Object[a122_0x349a12(0x11f)](exports,a122_0x349a12(0x122),{'value':!![]});var projects_1=require('./projects'),service_account_1=require(a122_0x349a12(0x123));function a122_0xeb87(_0x39737d,_0x22eb88){var _0x271103=a122_0x2711();return a122_0xeb87=function(_0xeb8773,_0x298df6){_0xeb8773=_0xeb8773-0x115;var _0x299aee=_0x271103[_0xeb8773];return _0x299aee;},a122_0xeb87(_0x39737d,_0x22eb88);}exports[a122_0x349a12(0x11e)]={'projects':projects_1[a122_0x349a12(0x11d)],'serviceAccount':service_account_1[a122_0x349a12(0x11d)]};

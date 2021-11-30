@@ -1,10 +1,1 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.map = void 0;
-var policies_1 = require("./policies");
-exports.default = {
-    add: policies_1.smtp_mailer_add,
-    edit: policies_1.smtp_mailer_edit,
-    remove: policies_1.smtp_mailer_rm,
-};
-exports.map = [policies_1.smtp_mailer_add, policies_1.smtp_mailer_edit, policies_1.smtp_mailer_rm];
+'use strict';function a193_0x40c6(_0x3cad82,_0x43d947){var _0x1b7bd2=a193_0x1b7b();return a193_0x40c6=function(_0x40c657,_0xdc162a){_0x40c657=_0x40c657-0x167;var _0x5d7218=_0x1b7bd2[_0x40c657];return _0x5d7218;},a193_0x40c6(_0x3cad82,_0x43d947);}var a193_0x2adb31=a193_0x40c6;function a193_0x1b7b(){var _0xf5206b=['10nxcvYy','81GuSdbi','default','1391395chwfrH','./policies','504984pncDzy','smtp_mailer_add','218489iTisGC','3692271rCstNs','smtp_mailer_edit','smtp_mailer_rm','63721pohXAy','162SHvAND','37104nzbrNO','616XTEQgn','defineProperty','657sjCIaE','map'];a193_0x1b7b=function(){return _0xf5206b;};return a193_0x1b7b();}(function(_0x47982b,_0x244a4e){var _0x1f6569=a193_0x40c6,_0x382978=_0x47982b();while(!![]){try{var _0x2c262e=-parseInt(_0x1f6569(0x16d))/0x1+parseInt(_0x1f6569(0x16b))/0x2+parseInt(_0x1f6569(0x167))/0x3*(-parseInt(_0x1f6569(0x173))/0x4)+parseInt(_0x1f6569(0x169))/0x5+-parseInt(_0x1f6569(0x172))/0x6*(parseInt(_0x1f6569(0x171))/0x7)+-parseInt(_0x1f6569(0x174))/0x8*(-parseInt(_0x1f6569(0x176))/0x9)+parseInt(_0x1f6569(0x178))/0xa*(parseInt(_0x1f6569(0x16e))/0xb);if(_0x2c262e===_0x244a4e)break;else _0x382978['push'](_0x382978['shift']());}catch(_0x551fe5){_0x382978['push'](_0x382978['shift']());}}}(a193_0x1b7b,0x26693));Object[a193_0x2adb31(0x175)](exports,'__esModule',{'value':!![]}),exports['map']=void 0x0;var policies_1=require(a193_0x2adb31(0x16a));exports[a193_0x2adb31(0x168)]={'add':policies_1[a193_0x2adb31(0x16c)],'edit':policies_1[a193_0x2adb31(0x16f)],'remove':policies_1[a193_0x2adb31(0x170)]},exports[a193_0x2adb31(0x177)]=[policies_1[a193_0x2adb31(0x16c)],policies_1[a193_0x2adb31(0x16f)],policies_1[a193_0x2adb31(0x170)]];

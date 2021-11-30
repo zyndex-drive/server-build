@@ -1,13 +1,1 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-/** API Routes for Getting Information about drives in Google Drive */
-exports.default = {
-    /**
-     * Google Drive API for Getting Details about a User & drive
-     *
-     * @module get
-     * @param {string} driveId - The ID of the shared drive
-     * @returns {TDriveUrlType} - API String for get Route
-     */
-    get: 'https://www.googleapis.com/drive/v3/about',
-};
+'use strict';function a82_0x6d16(){var _0x13921e=['4434768GGSmnJ','10VKMLJL','2648632NdzmLy','defineProperty','2272518EByNxz','6977igRnUC','3615932oDRpDw','8045917UxjgRh','5GDHVVq','__esModule','default','53865RQyfPv','6quMtTX','20BgNpxw'];a82_0x6d16=function(){return _0x13921e;};return a82_0x6d16();}var a82_0x537df0=a82_0x347f;function a82_0x347f(_0x523c2b,_0x4c43a5){var _0x6d168d=a82_0x6d16();return a82_0x347f=function(_0x347f5c,_0x17aeac){_0x347f5c=_0x347f5c-0x16a;var _0x23e3d4=_0x6d168d[_0x347f5c];return _0x23e3d4;},a82_0x347f(_0x523c2b,_0x4c43a5);}(function(_0x3529b3,_0x211789){var _0x3bedf3=a82_0x347f,_0x2f9700=_0x3529b3();while(!![]){try{var _0xea6b27=-parseInt(_0x3bedf3(0x173))/0x1*(parseInt(_0x3bedf3(0x16f))/0x2)+-parseInt(_0x3bedf3(0x16b))/0x3+-parseInt(_0x3bedf3(0x174))/0x4*(parseInt(_0x3bedf3(0x176))/0x5)+parseInt(_0x3bedf3(0x16c))/0x6*(parseInt(_0x3bedf3(0x170))/0x7)+-parseInt(_0x3bedf3(0x16e))/0x8+parseInt(_0x3bedf3(0x172))/0x9+-parseInt(_0x3bedf3(0x16d))/0xa*(-parseInt(_0x3bedf3(0x175))/0xb);if(_0xea6b27===_0x211789)break;else _0x2f9700['push'](_0x2f9700['shift']());}catch(_0x397b83){_0x2f9700['push'](_0x2f9700['shift']());}}}(a82_0x6d16,0x8e3cb));Object[a82_0x537df0(0x171)](exports,a82_0x537df0(0x177),{'value':!![]}),exports[a82_0x537df0(0x16a)]={'get':'https://www.googleapis.com/drive/v3/about'};

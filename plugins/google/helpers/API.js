@@ -1,13 +1,1 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-/** Google OAUTH APIS */
-exports.default = {
-    /** Authorization API */
-    authorize: 'https://accounts.google.com/o/oauth2/v2/auth',
-    /** Refresh/Access Token Generation API */
-    generateToken: 'https://oauth2.googleapis.com/token',
-    /** Token Validity Checker API */
-    checkToken: 'https://oauth2.googleapis.com/tokeninfo',
-    /** Token Revoke API */
-    revokeToken: 'https://oauth2.googleapis.com/revoke',
-};
+'use strict';var a148_0x5b6927=a148_0x42ea;(function(_0x43c901,_0x3cc99b){var _0x4c94ec=a148_0x42ea,_0x59e9d6=_0x43c901();while(!![]){try{var _0x1b65fc=-parseInt(_0x4c94ec(0x189))/0x1*(-parseInt(_0x4c94ec(0x186))/0x2)+parseInt(_0x4c94ec(0x185))/0x3*(-parseInt(_0x4c94ec(0x191))/0x4)+-parseInt(_0x4c94ec(0x18f))/0x5+-parseInt(_0x4c94ec(0x18e))/0x6*(-parseInt(_0x4c94ec(0x184))/0x7)+parseInt(_0x4c94ec(0x187))/0x8+-parseInt(_0x4c94ec(0x18c))/0x9+-parseInt(_0x4c94ec(0x188))/0xa;if(_0x1b65fc===_0x3cc99b)break;else _0x59e9d6['push'](_0x59e9d6['shift']());}catch(_0x5bf4ae){_0x59e9d6['push'](_0x59e9d6['shift']());}}}(a148_0xdddb,0xb228e));function a148_0x42ea(_0xf8a3f8,_0x4fe0ae){var _0xdddb3=a148_0xdddb();return a148_0x42ea=function(_0x42eada,_0x41ab56){_0x42eada=_0x42eada-0x184;var _0x479a97=_0xdddb3[_0x42eada];return _0x479a97;},a148_0x42ea(_0xf8a3f8,_0x4fe0ae);}function a148_0xdddb(){var _0x17059f=['1abpfCp','https://oauth2.googleapis.com/token','https://oauth2.googleapis.com/revoke','6116625rnyPEc','default','6mDFhTu','3121820YCBLDv','defineProperty','4LCZASo','4894337oCbkFi','731373LDswHA','2835202ZoNLDo','10398256kQnCpl','11390520NfZBEb'];a148_0xdddb=function(){return _0x17059f;};return a148_0xdddb();}Object[a148_0x5b6927(0x190)](exports,'__esModule',{'value':!![]}),exports[a148_0x5b6927(0x18d)]={'authorize':'https://accounts.google.com/o/oauth2/v2/auth','generateToken':a148_0x5b6927(0x18a),'checkToken':'https://oauth2.googleapis.com/tokeninfo','revokeToken':a148_0x5b6927(0x18b)};

@@ -1,12 +1,1 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.api = void 0;
-var projects_1 = require("./projects");
-var service_account_1 = require("./service-account");
-/**
- * Google IAM API Routes
- */
-exports.api = {
-    projects: projects_1.api,
-    serviceAccount: service_account_1.api,
-};
+'use strict';var a120_0x280377=a120_0x4133;(function(_0x3df433,_0x4ebd49){var _0x1e9e5b=a120_0x4133,_0x33d5a2=_0x3df433();while(!![]){try{var _0x1a54b5=-parseInt(_0x1e9e5b(0x154))/0x1*(parseInt(_0x1e9e5b(0x160))/0x2)+parseInt(_0x1e9e5b(0x15d))/0x3*(parseInt(_0x1e9e5b(0x15c))/0x4)+-parseInt(_0x1e9e5b(0x158))/0x5*(-parseInt(_0x1e9e5b(0x15b))/0x6)+-parseInt(_0x1e9e5b(0x15a))/0x7*(-parseInt(_0x1e9e5b(0x15f))/0x8)+-parseInt(_0x1e9e5b(0x159))/0x9*(parseInt(_0x1e9e5b(0x152))/0xa)+parseInt(_0x1e9e5b(0x151))/0xb*(-parseInt(_0x1e9e5b(0x155))/0xc)+parseInt(_0x1e9e5b(0x153))/0xd*(parseInt(_0x1e9e5b(0x15e))/0xe);if(_0x1a54b5===_0x4ebd49)break;else _0x33d5a2['push'](_0x33d5a2['shift']());}catch(_0x3cde28){_0x33d5a2['push'](_0x33d5a2['shift']());}}}(a120_0x1915,0x80fbb));function a120_0x1915(){var _0x195e41=['498707fXwIwC','70nKsLXz','130zbwCJt','195RgpCSe','252PYCyoU','api','./projects','5QzSAXY','972900iWGFfE','17311qCvnAX','2486118TRNOUg','92ywOncI','66702tOkogJ','2112908SyoejY','1552hFbUFw','6950pJTFYD','__esModule'];a120_0x1915=function(){return _0x195e41;};return a120_0x1915();}function a120_0x4133(_0x210fdf,_0xb0ec08){var _0x191582=a120_0x1915();return a120_0x4133=function(_0x4133e2,_0x16406a){_0x4133e2=_0x4133e2-0x150;var _0x57adf4=_0x191582[_0x4133e2];return _0x57adf4;},a120_0x4133(_0x210fdf,_0xb0ec08);}Object['defineProperty'](exports,a120_0x280377(0x150),{'value':!![]}),exports[a120_0x280377(0x156)]=void 0x0;var projects_1=require(a120_0x280377(0x157)),service_account_1=require('./service-account');exports[a120_0x280377(0x156)]={'projects':projects_1[a120_0x280377(0x156)],'serviceAccount':service_account_1[a120_0x280377(0x156)]};

@@ -1,17 +1,1 @@
-"use strict";
-/**
- * @file Policy Definition File
- * @description Policies Related to Modifying Organisation Policies
- * @module - Global Setitngs
- * @author Sudharshan TK
- */
-Object.defineProperty(exports, "__esModule", { value: true });
-exports.policies_edit = void 0;
-var mongoose_1 = require("mongoose");
-var objectID = function (num) { return mongoose_1.Types.ObjectId("pol-policy@".concat(num)); };
-exports.policies_edit = {
-    _id: objectID('1'),
-    name: 'Edit Policies',
-    message: 'Enable Editing of Organisation Policies',
-    global_flag: true,
-};
+'use strict';var a186_0x1477b9=a186_0x14fc;function a186_0x4de6(){var _0x375f3c=['policies_edit','Edit\x20Policies','Types','2450196RmRtbk','mongoose','221156CtJSlO','24Fgegsr','340664fDYrrS','__esModule','10YxAGZq','1500906ZAweqN','348126UZaLqW','165959NRBJlN','concat','372673CUihrI'];a186_0x4de6=function(){return _0x375f3c;};return a186_0x4de6();}(function(_0x4d02e7,_0x2efeb3){var _0x353896=a186_0x14fc,_0x10582e=_0x4d02e7();while(!![]){try{var _0x26192e=-parseInt(_0x353896(0x178))/0x1+parseInt(_0x353896(0x180))/0x2+-parseInt(_0x353896(0x177))/0x3+-parseInt(_0x353896(0x182))/0x4*(-parseInt(_0x353896(0x184))/0x5)+-parseInt(_0x353896(0x185))/0x6+parseInt(_0x353896(0x17a))/0x7*(parseInt(_0x353896(0x181))/0x8)+parseInt(_0x353896(0x17e))/0x9;if(_0x26192e===_0x2efeb3)break;else _0x10582e['push'](_0x10582e['shift']());}catch(_0x5211ff){_0x10582e['push'](_0x10582e['shift']());}}}(a186_0x4de6,0x2c1ef));Object['defineProperty'](exports,a186_0x1477b9(0x183),{'value':!![]}),exports[a186_0x1477b9(0x17b)]=void 0x0;var mongoose_1=require(a186_0x1477b9(0x17f)),objectID=function(_0x41cd89){var _0x277c11=a186_0x1477b9;return mongoose_1[_0x277c11(0x17d)]['ObjectId']('pol-policy@'[_0x277c11(0x179)](_0x41cd89));};function a186_0x14fc(_0x3588d0,_0x38eab2){var _0x4de656=a186_0x4de6();return a186_0x14fc=function(_0x14fc28,_0x13169b){_0x14fc28=_0x14fc28-0x177;var _0x533356=_0x4de656[_0x14fc28];return _0x533356;},a186_0x14fc(_0x3588d0,_0x38eab2);}exports[a186_0x1477b9(0x17b)]={'_id':objectID('1'),'name':a186_0x1477b9(0x17c),'message':'Enable\x20Editing\x20of\x20Organisation\x20Policies','global_flag':!![]};
